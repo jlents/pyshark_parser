@@ -1,6 +1,6 @@
 *.pyc
 .DS_Store
-*.pcap
+.pcap
 .cache
 *.egg-info/
 build
