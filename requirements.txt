@@ -1,6 +1,6 @@
 futures==3.0.5
 Logbook==1.0.0
-lxml==3.6.1
+lxml==4.6.2
 py==1.4.31
 pyshark==0.3.6.1
 trollius==1.0.4
